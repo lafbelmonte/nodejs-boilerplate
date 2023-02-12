@@ -25,7 +25,12 @@ To be finalized:
     * [Agenda](https://www.npmjs.com/package/agenda)
     * [Bull](https://www.npmjs.com/package/bull)
     * ???
+* Test
+    * [Mocha](https://www.npmjs.com/package/mocha), [chai](https://www.npmjs.com/package/chai), [Sinon](https://www.npmjs.com/package/sinon)
+    * [Jest](https://www.npmjs.com/package/jest)
 * TypeScript, ESLint and Prettier settings
+* Monorepo
+    * [Nx](https://nx.dev/)
 * ???
 
 
